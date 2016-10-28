@@ -12,15 +12,23 @@ body{
 
 div.up{
     display: inline-block;
-    width: 33%;
+    width: 30%;
     height: 250px;
     background: #323252;
     margin: 0 auto ;
 }
 
+.test{
+    display: inline-block;
+    width: 4%;
+    /* height: 250px;
+    background: #323252;
+    margin: 0 auto ; */
+}
+
 div.down{
     display: inline-block;
-    width: 33%;
+    width: 30%;
     height: 250px;
     background: white;
     margin: 0 auto ;
@@ -79,6 +87,7 @@ div.mid{
 .block{
     margin-top: 35px;
 }
+
 
 /*
 div{
